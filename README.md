@@ -11,7 +11,7 @@ Hardware used:
 
 Wiring diagram:
 
-pictures\Pico-breadboard-midi-usb_bb.jpg
+![Cover](https://github.com/gizmojmo/PICO---MIDIUSB---VOICEMETER/blob/main/pictures/Pico-breadboard-midi-usb_bb.jpg)
 
 Each potentiometer should be connected to the ADS1015 through its center pin as follows:
 
