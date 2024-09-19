@@ -55,7 +55,7 @@ Adafruit ADS1X15 2.5.0
 U8g2 2.35.21
 MIDI Interface Configuration in Voicemeeter (Banana):
 
-pictures\voicemeter_config.jpg
+![Cover](https://github.com/gizmojmo/PICO---MIDIUSB---VOICEMETER/blob/main/pictures/voicemeter_config.jpg)
 
 
 Go to Menu/MIDI Mapping.
